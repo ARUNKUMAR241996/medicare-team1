@@ -1,0 +1,130 @@
+
+* {
+	margin:0px;
+	padding :0px;
+	list-style:none;
+	text-decoration:none;
+	
+}
+.admin{
+text-align:right;
+color:red;
+font-size:20px;
+}
+
+
+
+	.menubar
+	{
+		text-align:center;
+		background-color:#EFE6E5;
+	}
+	
+.menubar li a
+	{
+		color:Black;
+		text-decoration:none;
+	}
+.menubar ul	
+	{
+		display:inline-flex;
+		list-style:none;
+	}
+.menubar ul li
+	{
+		width:150px;
+		padding:15px;
+		margin:15px;
+		
+	}
+	
+.menubar ul li:hover
+	{
+		background-color:#5b80a4;
+		border-radius:10px;
+	}
+	.log
+	{
+		
+		width:400px;
+		text-align:center;
+		height:550px;
+		position:relative;
+		left:400px;
+		margin:10px;
+		margin-right:750px;
+		padding:10px;
+		background-color:#5b80a4;
+		border-radius:10px;
+	}
+	.frm
+	{
+		width:200px;
+		margin:15px;
+		padding:10px;
+		background-color:rgba(0,0,0,0.8);
+		color:white;
+		outline:none;
+		border:1px solid #5b80a4;
+		transition:.5s;
+		border-radius:10px;
+	}
+.frm:focus
+	{
+		box-shadow:0px 0px 20px 6px black;
+		
+	}
+	.btn
+	{
+	
+		padding:10px 35px;
+		font-size:15px;
+		margin-right:80px;
+		background-color:rgba(0,0,0,0.6);
+		color:white;
+		outline:none;
+		border-radius:30px;
+		border:1px solid #5b80a4;
+	}
+.head h2:hover
+{
+	
+	transition:1s;
+	transform:scale(1.2);
+	color:black;
+	
+}
+
+.frm1
+	{
+		width:200px;
+		margin:15px;
+		padding:10px;
+		background-color:;
+		color:black;
+		outline:none;
+		border:1px solid #5b80a4;
+		transition:.5s;
+		border-radius:10px;
+	}
+.frm1:focus
+	{
+		box-shadow:0px 0px 20px 6px black;
+		
+	}
+.btn1
+	{
+	
+		padding:10px 35px;
+		font-size:15px;
+		margin-right:80px;
+		background-color:rgba(0,0,0,0.6);
+		color:white;
+		outline:none;
+		border-radius:30px;
+		border:1px solid #5b80a4;
+	}
+	.btn1:hover
+	{
+		background-color: #5b80a4;
+	}
